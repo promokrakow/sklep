@@ -1,4 +1,4 @@
 <? echo 'kontakt'; ?>
 
 
-<? echo 'Firma dupa inc.' ?>
+<? echo 'coś tam coś tam' ?>
