@@ -1,0 +1,1 @@
+<? echo 'Strona produktow'; ?>
