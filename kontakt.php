@@ -9,4 +9,4 @@
 
 
 
-<? echo 'Zaprasza na kawê.' ?>
+<? echo 'Zaprasza na kawï¿½.' ?>
